@@ -1,0 +1,10 @@
+data
+resultFiles
+*.tgz
+*.mat
+*.m~
+*.asv
+*.mexw64
+*.mexw32
+*.mexa64
+*.mexa32
