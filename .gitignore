@@ -1,5 +1,6 @@
 data
 resultFiles
+experiments_eccv2014/userStudy/figures
 *.tgz
 *.mat
 *.m~
